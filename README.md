@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/you-are-everything/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For You Are Everything](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/you-are-everything/) |
+| **Get License** | [Official Music Licensing for You Are Everything](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/you-are-everything/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Coffee cups and falling rain,
+> Washing out the windowpane.
+> But all the world is perfectly clear,
+> When I have got you sitting here.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
