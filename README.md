@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/you-are-everything/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for You Are Everything](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/you-are-everything/) |
+| **Get License** | [Music Rights & Licensing for You Are Everything](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/you-are-everything/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `db8256949e73288d319da94bbdd4932a66553ba71285f9b517ddf9476dfcbc28` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

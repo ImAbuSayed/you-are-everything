@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - You Are Everything
+
+This log tracks the cryptographic history and versioning for the song **You Are Everything** (you-are-everything).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-30T18:49:21.032273 | `v1` | `db8256949e73288d319da94bbdd4932a66553ba71285f9b517ddf9476dfcbc28` | `7001e3e49137a30cfbc13ed32242024da8ee8be3a5bcb7fdced50d14ccd7ed39` | `2026-05-30_you-are-everything-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
